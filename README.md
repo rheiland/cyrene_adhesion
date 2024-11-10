@@ -10,6 +10,6 @@ The model provided (by default, in `config/PhysiCell_settings.xml`) will create 
 
 Q: does this single cell act as an anchor to the other cells?
 
-A: it seems not (play the .gif in the root dir). Why? See line 262 in `core/PhysiCell_cell_container.cpp`)
+A: it seems not (here's the .gif results). Why? See line 262 in `core/PhysiCell_cell_container.cpp`)
 
-![](./adhesion_test0)
+![](./adhesion_test0.gif)
