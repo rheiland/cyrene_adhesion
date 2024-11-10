@@ -11,5 +11,6 @@ The model provided (by default, in `config/PhysiCell_settings.xml`) will create 
 Q: does this single cell act as an anchor to the other cells?
 
 A: it seems not (here's the .gif results). Why? See line 262 in `core/PhysiCell_cell_container.cpp`)
+![link to line](https://github.com/rheiland/cyrene_adhesion/blob/main/PhysiCell-development/core/PhysiCell_cell_container.cpp#L262)
 
 ![](./adhesion_test0.gif)
