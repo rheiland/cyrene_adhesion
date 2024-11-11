@@ -14,3 +14,5 @@ A: it seems not (here's the .gif results). Why? See line 262 in `core/PhysiCell_
 ![link to line](https://github.com/rheiland/cyrene_adhesion/blob/main/PhysiCell-development/core/PhysiCell_cell_container.cpp#L262)
 
 ![](./adhesion_test0.gif)
+
+A2: actually, upon further reflection and more experimenting, I take it back to some degree. If you increase the `elastic constant` of the cytpe1 cell, it will have a greater "anchoring" effect.
